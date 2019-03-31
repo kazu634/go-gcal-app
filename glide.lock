@@ -1,0 +1,43 @@
+hash: fb643df7a1f4b67a3829addd14a510e47c15da82cffb3713e2eb19523080f52d
+updated: 2018-01-21T15:08:15.495669+08:00
+imports:
+- name: cloud.google.com/go
+  version: b1067c1d21b537cf0970ff61d3f28dbb9e595c78
+  subpackages:
+  - compute/metadata
+- name: github.com/golang/protobuf
+  version: 1e59b77b52bf8e4b449a57e6f79f21226d571845
+  subpackages:
+  - proto
+- name: golang.org/x/net
+  version: 5ccada7d0a7ba9aeb5d3aca8d3501b4c2a509fec
+  subpackages:
+  - context
+  - context/ctxhttp
+- name: golang.org/x/oauth2
+  version: b28fcf2b08a19742b43084fb40ab78ac6c3d8067
+  subpackages:
+  - google
+  - internal
+  - jws
+  - jwt
+- name: google.golang.org/api
+  version: 85dbeadc18ffa798f2716d8c48a2c1153470743a
+  subpackages:
+  - calendar/v3
+  - gensupport
+  - googleapi
+  - googleapi/internal/uritemplates
+- name: google.golang.org/appengine
+  version: 5bee14b453b4c71be47ec1781b0fa61c2ea182db
+  subpackages:
+  - internal
+  - internal/app_identity
+  - internal/base
+  - internal/datastore
+  - internal/log
+  - internal/modules
+  - internal/remote_api
+  - internal/urlfetch
+  - urlfetch
+testImports: []

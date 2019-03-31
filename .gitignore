@@ -1,0 +1,5 @@
+vendor/
+gcal
+.envrc
+calendar-go-quickstart.json
+client_secret.json
